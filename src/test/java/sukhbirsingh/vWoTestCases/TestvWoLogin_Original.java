@@ -5,16 +5,11 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import io.qameta.allure.Description;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
-import org.testng.Assert;
-import org.testng.annotations.Test;
 
-public class vWoLoginTC {
+public class TestvWoLogin_Original {
 
     @Description("Verify that with invalid email, pass, error message is shown on the app.vwo.com")
     @Test
