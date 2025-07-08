@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/HP/IdeaProjects/Framework4.0/src/test/java/sukhbirsingh/vWoTestCases/TestvWoLogin_02_POM_PropertyReader.java"><classes><class name="sukhbirsingh.vWoTestCases.TestvWoLogin_02_POM_PropertyReader"><methods><include name="testLoginNegativevWo"/><include name="testLoginPostivevWo"/></methods></class></classes></test></suite>
